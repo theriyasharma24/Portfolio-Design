@@ -6,4 +6,5 @@ learn a lot during these 7 days and it was an amazing experience learning.
 <br>I got to have hands on experience on:
 <li>HTML
 <li>CSS
+ <br>
 And made this eyecatching portfolio design using the same!
